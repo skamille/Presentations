@@ -1,0 +1,4 @@
+Notes on this deck:
+Yes, that log testing is ugly. It is a 1 in a 1000 test. It's just also kind of cool.
+The point of that mocking test is not to teach mocking, but to show its power.
+
